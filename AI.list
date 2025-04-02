@@ -42,5 +42,7 @@ DOMAIN-SUFFIX,x.ai
 
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
